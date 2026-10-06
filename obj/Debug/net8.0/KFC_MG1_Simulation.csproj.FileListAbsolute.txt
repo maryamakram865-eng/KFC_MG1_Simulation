@@ -1,0 +1,15 @@
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\bin\Debug\net8.0\KFC_MG1_Simulation.exe
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\bin\Debug\net8.0\KFC_MG1_Simulation.deps.json
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\bin\Debug\net8.0\KFC_MG1_Simulation.runtimeconfig.json
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\bin\Debug\net8.0\KFC_MG1_Simulation.dll
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\bin\Debug\net8.0\KFC_MG1_Simulation.pdb
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.AssemblyInfoInputs.cache
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.AssemblyInfo.cs
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.csproj.CoreCompileInputs.cache
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.dll
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\refint\KFC_MG1_Simulation.dll
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.pdb
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.genruntimeconfig.cache
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\ref\KFC_MG1_Simulation.dll
+C:\Users\marya\OneDrive\Desktop\KFC_MG1_Simulation\KFC_MG1_Simulation\obj\Debug\net8.0\KFC_MG1_Simulation.sourcelink.json
